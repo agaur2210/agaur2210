@@ -32,8 +32,8 @@ Passionate about solving complex problems, driving efficiency, and leading high-
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agaur2210&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agaur2210&layout=compact&theme=dark)
 
 ---
 
