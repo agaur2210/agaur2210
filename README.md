@@ -34,12 +34,12 @@ Passionate about solving complex problems, driving efficiency, and leading high-
 ### 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/agaur2210?theme=dark&font=Karma)
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agaur2210&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agaur2210&layout=compact&theme=dark)
 
 ---
-
+-->
 ## 🌱 Currently Learning
 - Advanced **Event-Driven Architecture** with Kafka
 - **TOGAF** Enterprise Architecture framework  
