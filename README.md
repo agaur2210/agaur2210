@@ -23,11 +23,9 @@ Passionate about solving complex problems, driving efficiency, and leading high-
 ---
 
 ## 📌 Featured Projects
-🔹 [**Event Sourcing with C# & Databases**](#) – CQRS + Event Sourcing + SQL + NOSQL
+🔹 [**Event Sourcing with C# & Databases**](#) – CQRS + Event Sourcing
 🔹 [**Cloud-Native Microservices**](#) – AWS Lambda + .NET + MongoDB  
 🔹 [**Reusable Workflow Library**](#) – Designed for scalable enterprise workflows  
-
-*(Pin these repos to your profile so they show on top!)*
 
 ---
 
