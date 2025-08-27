@@ -41,7 +41,7 @@ Passionate about solving complex problems, driving efficiency, and leading high-
 ## 🌱 Currently Learning
 - Advanced **Event-Driven Architecture** with Kafka
 - **TOGAF** Enterprise Architecture framework  
-- **Spanish language** 🇪🇸 (living in Spain for the next decade+)  
+- **Spanish language** 
 
 ---
 
