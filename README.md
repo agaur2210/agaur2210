@@ -23,8 +23,8 @@ Passionate about solving complex problems, driving efficiency, and leading high-
 ---
 
 ## 📌 Featured Projects
-🔹 [**Event Sourcing with C# & Databases**](#) – Sample repo demonstrating CQRS + Event Sourcing  + SQL + NOSQL
-🔹 [**Cloud-Native Microservices**](#) – AWS Lambda + .NET + DynamoDB example architecture  
+🔹 [**Event Sourcing with C# & Databases**](#) – CQRS + Event Sourcing + SQL + NOSQL
+🔹 [**Cloud-Native Microservices**](#) – AWS Lambda + .NET + MongoDB  
 🔹 [**Reusable Workflow Library**](#) – Designed for scalable enterprise workflows  
 
 *(Pin these repos to your profile so they show on top!)*
