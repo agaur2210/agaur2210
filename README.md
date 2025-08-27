@@ -16,6 +16,8 @@ Passionate about solving complex problems, driving efficiency, and leading high-
 ![NoSQL](https://img.shields.io/badge/NoSQL-006400?style=flat&logo=mongodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-FF6F00?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
