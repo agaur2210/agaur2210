@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Amit Gaur]
+# 👋 Hi, I’m Amit Gaur
 
 🚀 **Developer,Architect & Tech Lead | 13+ years in Software Development & Design**  
 🌍 Currently based in Spain | Open to collaboration & knowledge sharing  
